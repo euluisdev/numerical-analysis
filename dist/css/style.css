@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 50px;
+    color: white;
+    text-align: center;
+}
+
+body {
+    font: normal 15pt Arial;
+    background-image: url(/dist/img/131313.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    min-height: 100vh;
+    margin: auto;
+}
+
+section {
+    background-color: rgba(247, 251, 252, 0.89);
+    color: black;
+    border-radius: 10px;
+    padding: 15px;
+    width: 450px;
+    margin: auto;
+    box-shadow: 3px 3px 0px rgba(0, 0, 0, .15);
+}
+
+.fnum {
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgba(247, 251, 252, 0.589);
+}
+
+.analyzeBtn, .clearBtn {
+    margin-top: 8px;
+}
+
+.addBtn, .analyzeBtn, .clearBtn {
+    background-color: #3580db;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.addBtn:hover, .analyzeBtn:hover, .clearBtn:hover {
+    background-color: #134b8f;
+}
+
+.addBtn {
+    animation: animate-outline 1s infinite linear;
+    margin-left: 10px;
+    margin-left: 10px;
+}
+
+@keyframes animate-outline {  
+    from{
+        outline: 0px solid #4f9bf98a;
+    } to {
+        outline: 15px solid #4f9bf900;
+    }
+}
+
+.flist {
+    width: 150px;
+    display: flex;
+    margin-top: 15px;
+    background-color: rgba(247, 251, 252, 0.589);
+}
+
+.res {
+    margin-top: 10px;
+    display: block;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    color: rgba(0, 0, 5, 0.548);
+}
