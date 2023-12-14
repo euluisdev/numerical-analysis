@@ -63,8 +63,7 @@ construtivas, sinta-se à vontade para abrir uma issue ou enviar um pull request
 
 ## Licença
 
-Este projeto está sob a Licença MIT. [![NPM](https://img.shields.io/npm/l/react)](https://github.com/euluisdev/numerical-analysis
-/blob/master/LICENSE)
+Este projeto está sob a Licença MIT. [![NPM](https://img.shields.io/npm/l/react)]
 
 ## Autor
 Luis Fernando de Albuquerque Figueiredo
