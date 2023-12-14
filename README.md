@@ -67,4 +67,4 @@ Este projeto está sob a Licença MIT. ![NPM](https://img.shields.io/npm/l/react
 
 ## Autor
 Luis Fernando de Albuquerque Figueiredo
-[https://github.com/euluisdev/tasks-list](https://github.com/euluisdev/numerical-analysis)
+[https://github.com/euluisdev/numerical-analysis](https://github.com/euluisdev/numerical-analysis)
